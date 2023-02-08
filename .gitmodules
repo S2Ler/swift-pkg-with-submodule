@@ -1,0 +1,3 @@
+[submodule "SwiftyImageIO"]
+	path = SwiftyImageIO
+	url = git@github.com:S2Ler/SwiftyImageIO.git
